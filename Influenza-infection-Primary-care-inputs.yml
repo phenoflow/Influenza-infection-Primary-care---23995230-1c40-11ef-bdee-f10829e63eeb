@@ -1,0 +1,216 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/influenza-infection-primary-care-polysaccaride---primary.py
+inputModule3:
+  class: File
+  path: python/influenza-infection-primary-care-reaction---primary.py
+inputModule4:
+  class: File
+  path: python/influenza-infection-primary-care-bronchopneumonia---primary.py
+inputModule5:
+  class: File
+  path: python/influenza-infection-primary-care-manifestationsflu---primary.py
+inputModule6:
+  class: File
+  path: python/therapeutic-influenza-infection-primary-care---primary.py
+inputModule7:
+  class: File
+  path: python/ribonucleic-influenza-infection-primary-care---primary.py
+inputModule8:
+  class: File
+  path: python/influenza-infection-primary-care-advice---primary.py
+inputModule9:
+  class: File
+  path: python/influenza-infection-primary-care-vaccine---primary.py
+inputModule10:
+  class: File
+  path: python/influenza-infection-primary-care-chest---primary.py
+inputModule11:
+  class: File
+  path: python/influenza-infection-primary-care-group---primary.py
+inputModule12:
+  class: File
+  path: python/influenza-infection-primary-care-contraindicated---primary.py
+inputModule13:
+  class: File
+  path: python/zoonotic-influenza-infection-primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/pharmacist-influenza-infection-primary-care---primary.py
+inputModule15:
+  class: File
+  path: python/influenza-infection-primary-care-consent---primary.py
+inputModule16:
+  class: File
+  path: python/influenza-infection-primary-care-identified---primary.py
+inputModule17:
+  class: File
+  path: python/influenza-infection-primary-care-subtype---primary.py
+inputModule18:
+  class: File
+  path: python/influenza-infection-primary-care-vaccination---primary.py
+inputModule19:
+  class: File
+  path: python/influenza-infection-primary-care-split---primary.py
+inputModule20:
+  class: File
+  path: python/influenza-infection-primary-care-level---primary.py
+inputModule21:
+  class: File
+  path: python/influenza-infection-primary-care-human---primary.py
+inputModule22:
+  class: File
+  path: python/influenza-infection-primary-care-flulike---primary.py
+inputModule23:
+  class: File
+  path: python/influenza-infection-primary-care-exposure---primary.py
+inputModule24:
+  class: File
+  path: python/influenza-infection-primary-care-encephalitis---primary.py
+inputModule25:
+  class: File
+  path: python/influenza-infection-primary-care-provider---primary.py
+inputModule26:
+  class: File
+  path: python/influenza-infection-primary-care-contact---primary.py
+inputModule27:
+  class: File
+  path: python/encephalopathy-influenza-infection-primary-care---primary.py
+inputModule28:
+  class: File
+  path: python/influenza-infection-primary-care-chapter---primary.py
+inputModule29:
+  class: File
+  path: python/influenza-infection-primary-care-invitation---primary.py
+inputModule30:
+  class: File
+  path: python/influenza-infection-primary-care-given---primary.py
+inputModule31:
+  class: File
+  path: python/influenza-infection-primary-care-virion---primary.py
+inputModule32:
+  class: File
+  path: python/influenza-infection-primary-care-detected---primary.py
+inputModule33:
+  class: File
+  path: python/influenza-infection-primary-care-antibody---primary.py
+inputModule34:
+  class: File
+  path: python/influenza-infection-primary-care-bronchitis---primary.py
+inputModule35:
+  class: File
+  path: python/influenza-infection-primary-care-close---primary.py
+inputModule36:
+  class: File
+  path: python/influenza-infection-primary-care---primary.py
+inputModule37:
+  class: File
+  path: python/influenza-infection-primary-care-first---primary.py
+inputModule38:
+  class: File
+  path: python/influenza-infection-primary-care-pharyngitis---primary.py
+inputModule39:
+  class: File
+  path: python/influenza-infection-primary-care-unspecified---primary.py
+inputModule40:
+  class: File
+  path: python/influenza-infection-primary-care-protein---primary.py
+inputModule41:
+  class: File
+  path: python/influenza-infection-primary-care-surface---primary.py
+inputModule42:
+  class: File
+  path: python/common-influenza-infection-primary-care---primary.py
+inputModule43:
+  class: File
+  path: python/pandemic-influenza-infection-primary-care---primary.py
+inputModule44:
+  class: File
+  path: python/influenza-infection-primary-care-haemophilus---primary.py
+inputModule45:
+  class: File
+  path: python/influenza-infection-primary-care-meningitis---primary.py
+inputModule46:
+  class: File
+  path: python/influenza-infection-primary-care-pasteur---primary.py
+inputModule47:
+  class: File
+  path: python/influenza-infection-primary-care-hepatitis---primary.py
+inputModule48:
+  class: File
+  path: python/seasonal-influenza-infection-primary-care---primary.py
+inputModule49:
+  class: File
+  path: python/influenza-infection-primary-care-serology---primary.py
+inputModule50:
+  class: File
+  path: python/quadrivalent-influenza-infection-primary-care---primary.py
+inputModule51:
+  class: File
+  path: python/influenza-infection-primary-care-suspected---primary.py
+inputModule52:
+  class: File
+  path: python/influenza-infection-primary-care-history---primary.py
+inputModule53:
+  class: File
+  path: python/influenza-infection-primary-care-antigen---primary.py
+inputModule54:
+  class: File
+  path: python/influenza-infection-primary-care-second---primary.py
+inputModule55:
+  class: File
+  path: python/influenza-infection-primary-care-septicaemia---primary.py
+inputModule56:
+  class: File
+  path: python/influenza-infection-primary-care-hib---primary.py
+inputModule57:
+  class: File
+  path: python/possible-influenza-infection-primary-care---primary.py
+inputModule58:
+  class: File
+  path: python/influenza---primary.py
+inputModule59:
+  class: File
+  path: python/allergy-influenza-infection-primary-care---primary.py
+inputModule60:
+  class: File
+  path: python/influenza-infection-primary-care-inactivated---primary.py
+inputModule61:
+  class: File
+  path: python/influenza-infection-primary-care-strain---primary.py
+inputModule62:
+  class: File
+  path: python/trivalent-influenza-infection-primary-care---primary.py
+inputModule63:
+  class: File
+  path: python/influenza-infection-primary-care-influenzalike---primary.py
+inputModule64:
+  class: File
+  path: python/influenza-infection-primary-care-involvement---primary.py
+inputModule65:
+  class: File
+  path: python/influenza-infection-primary-care-swine---primary.py
+inputModule66:
+  class: File
+  path: python/influenza-infection-primary-care-illness---primary.py
+inputModule67:
+  class: File
+  path: python/influenza-infection-primary-care-consultatn---primary.py
+inputModule68:
+  class: File
+  path: python/influenza-infection-primary-care-avian---primary.py
+inputModule69:
+  class: File
+  path: python/influenza-infection-primary-care-myocarditis---primary.py
+inputModule70:
+  class: File
+  path: python/vpersonal-influenza-infection-primary-care---primary.py
+inputModule71:
+  class: File
+  path: python/influenza-infection-primary-care-telephne---primary.py
+inputModule72:
+  class: File
+  path: python/output-cases.py
