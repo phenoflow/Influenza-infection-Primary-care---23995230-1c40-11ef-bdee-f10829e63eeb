@@ -210,7 +210,7 @@ inputModule69:
   path: python/influenza-infection-primary-care-myocarditis---primary.py
 inputModule70:
   class: File
-  path: python/vpersonal-influenza-infection-primary-care---primary.py
+  path: python/personal-influenza-infection-primary-care---primary.py
 inputModule71:
   class: File
   path: python/influenza-infection-primary-care-telephne---primary.py
