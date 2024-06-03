@@ -2,11 +2,11 @@
 
 import sys, csv, re
 
-codes = [{"code":"285859013","system":"snomedct"},{"code":"142934010","system":"snomedct"},{"code":"924501000006111","system":"snomedct"},{"code":"11931191000006114","system":"snomedct"}];
+codes = [{"code":"ZV14F00","system":"snomedct"},{"code":"ZV14F00","system":"snomedct"}];
 REQUIRED_CODES = 1;
 with open(sys.argv[1], 'r') as file_in, open('influenza-infection-primary-care-potential-cases.csv', 'w', newline='') as file_out:
     csv_reader = csv.DictReader(file_in)
-    csv_writer = csv.DictWriter(file_out, csv_reader.fieldnames + ["influenza-infection-primary-care-vaccination---primary-identified"])
+    csv_writer = csv.DictWriter(file_out, csv_reader.fieldnames + ["personal-influenza-infection-primary-care---primary-identified"])
     csv_writer.writeheader();
     codes_identified = 0;
     for row in csv_reader:
@@ -16,10 +16,10 @@ with open(sys.argv[1], 'r') as file_in, open('influenza-infection-primary-care-p
             for item in re.findall(r'\(([^,]*)\,', row[cell]):
                 if(item in list(map(lambda code: code['code'], codes))): codes_identified+=1;
                 if(codes_identified>=REQUIRED_CODES):
-                    newRow["influenza-infection-primary-care-vaccination---primary-identified"] = "CASE";
+                    newRow["personal-influenza-infection-primary-care---primary-identified"] = "CASE";
                     break;
             if(codes_identified>=REQUIRED_CODES): break;
         if(codes_identified<REQUIRED_CODES):
-            newRow["influenza-infection-primary-care-vaccination---primary-identified"] = "UNK";
+            newRow["personal-influenza-infection-primary-care---primary-identified"] = "UNK";
         codes_identified=0;
         csv_writer.writerow(newRow)
